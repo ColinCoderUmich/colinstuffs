@@ -1,0 +1,41 @@
+/* Apply colorful background to the body */
+body {
+    background: linear-gradient(to right, #ffcc00, #ff00ff, #00ccff);
+  }
+  
+  /* Style headings with different colors */
+  h1 {
+    color: #ff0000;
+  }
+  
+  h2 {
+    color: #00ff00;
+  }
+  
+  h3 {
+    color: #0000ff;
+  }
+  
+  /* Add colorful border to images */
+  img {
+    border: 2px solid #ff00ff;
+  }
+  
+  /* Apply different background colors to sections */
+  .section1 {
+    background-color: #ffff00;
+  }
+  
+  .section2 {
+    background-color: #00ffff;
+  }
+  
+  .section3 {
+    background-color: #ff9900;
+  }
+  
+  /* Add colorful hover effect to links */
+  a:hover {
+    color: #ff00ff;
+  }
+  
